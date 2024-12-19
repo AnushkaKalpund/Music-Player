@@ -23,23 +23,21 @@ Music-Player/
 <hr>
 
 <h3>Technology Used</h3>
-<li>
-  <ol>Frontend</ol>
-  <li>ReactJS</li>
-  <ol>Backend</ol>
-  <li>NodeJS</li>
-  <li>ExpressJS</li>
-  <ol>Database</ol>
-  <li>MongoDB</li>
-</li>
+<li>Frontend</li>
+<li>ReactJS</li>
+<li>Backend</li>
+<li>NodeJS</li>
+<li>ExpressJS</li>
+<li>Database</li>
+<li>MongoDB</li>
+
 
 <br>
 <hr>
 
 <h3>Task Details</h3>
-<li>
-<ol><b>Development</b></ol>
+<li><b>Development</b></li>
 <p>Set up user authentication with signup and signin using MongoDB and Express.js and create signup and signin pages using ReactJS</p>
-<ol><b>Testing</b></ol>
+<li><b>Testing</b></li>
 <p> Test authentication routes with postman to validate user management, and ensure frontend forms interact correctly with backend routes for seamless functionality.</p>
-</li>
+
